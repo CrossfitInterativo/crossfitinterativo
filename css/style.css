@@ -10387,3 +10387,92 @@ textarea.form-control {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
 
+.bg-paralax {
+  background: white;
+}
+.txt-white {
+  color: white;
+}
+#section-counter .heading-section .subheading small i.left-bar:after {
+  position: absolute;
+  top: 50%;
+  left: -11px;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  content: '';
+  width: 4px;
+  height: 20px;
+  background: white;
+}
+#section-counter .heading-section .subheading small:after {
+  position: absolute;
+  top: 50%;
+  left: -7px;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  content: '';
+  width: 6px;
+  height: 4px;
+  background: white;
+}
+#section-counter .heading-section .subheading small i.left-bar:before {
+  position: absolute;
+  top: 50%;
+  left: -16px;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  content: '';
+  width: 4px;
+  height: 14px;
+  background: white;
+}
+#section-counter .heading-section .subheading small:before {
+  position: absolute;
+  top: 50%;
+  right: -7px;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  content: '';
+  width: 6px;
+  height: 4px;
+  background: white;
+}
+#section-counter .heading-section .subheading small i.right-bar:after {
+  position: absolute;
+  top: 50%;
+  right: -11px;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  content: '';
+  width: 4px;
+  height: 20px;
+  background: white;
+}
+#section-counter .heading-section .subheading small i.right-bar:before {
+  position: absolute;
+  top: 50%;
+  right: -16px;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  content: '';
+  width: 4px;
+  height: 14px;
+  background: white;
+}
+.marcador {
+  font-size: 23px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  border-left: 3px solid #FFB31F;
+  padding: 2px 0;
+  padding-left: 10px;
+}
+.space-top {
+  padding-top: 1rem;
+}
