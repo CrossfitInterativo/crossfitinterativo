@@ -10476,3 +10476,6 @@ textarea.form-control {
 .space-top {
   padding-top: 1rem;
 }
+.ajuste-mapa {
+  line-height: 0 !important;
+}
