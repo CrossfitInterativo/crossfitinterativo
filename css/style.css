@@ -10484,3 +10484,6 @@ textarea.form-control {
     text-align: center;
   }
 }
+.carrousel-shadow {
+  text-shadow: black 0em 0.1em 0.2em !important;
+}
